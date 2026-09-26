@@ -1,0 +1,2 @@
+protobuf>=4.22.1,<6.0.0
+remotezip>=0.12.3
